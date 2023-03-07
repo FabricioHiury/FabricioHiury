@@ -3,8 +3,8 @@
 I’m Fabrício Hiury and here is some data about me:
 
 - 🔭 I’m currently working at CODHAB with software development.
-- 🌱 I’m currently studying Data Science and Machine Learning at CEUB.
-- 👯 I’m looking to collaborate on backend development or fullstack development.
+- 🌱 I’m currently studying Analysis and systems development at Cruzeiro do Sul.
+- 👯 I’m looking to collaborate on data analysis, backend development or fullstack development.
 - 📫 How to reach me: fabricio.feo@outlook.com
 <div><a href="https://github.com/FabricioHiury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioHiury&count_private=true&show_icons=true&theme=blueberry"/>
