@@ -2,7 +2,7 @@
 
 I’m Fabrício Hiury and here is some data about me:
 
-- 🔭 I’m currently working at CODHAB with web development.
+- 🔭 I’m currently working at Incript with fullstack development.
 - 🌱 I’m currently studying Analysis and systems development at Cruzeiro do Sul.
 - 👯 I’m looking to collaborate on data analysis, backend development or fullstack development.
 - 📫 How to reach me: fabricio.feo@outlook.com
