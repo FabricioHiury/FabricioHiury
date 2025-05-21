@@ -13,8 +13,8 @@ I'm a Full-Stack Software Engineer with 4+ years of experience building scalable
 **Frontend:** React, Next.js, Angular  
 **DevOps & Cloud:** Docker, GitHub Actions, AWS S3, MinIO  
 **Databases:** PostgreSQL, Oracle, Prisma, TypeORM  
-**Real-time & Messaging:** WebSockets, MQTT  
-**Integrations:** Stripe, Clicksign, WhatsApp (WPPConnect), OLX, Facebook/Instagram  
+**Messaging:** WebSockets, Bull, Redis, Kafka, MQTT  
+**Integrations:** Stripe, Clicksign, WhatsApp, OLX, Facebook/Instagram  
 **Testing:** Jest, Unit & Integration Tests  
 **Methodologies:** Scrum, Kanban, DDD, Event Storming
 
