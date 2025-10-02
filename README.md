@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Software Engineer with 4+ years of experience building scalable applications using modern technologies.
 
-🎓 Studying **Analysis and Systems Development** at Cruzeiro do Sul Virtual (2023–2025).  
+🎓 Graduated in **Analysis and Systems Development** at Cruzeiro do Sul Virtual (2023–2025).  
 🧠 Passionate about clean architecture, automation, and integrating systems with efficiency.
 
 ## 🛠️ Tech Stack
