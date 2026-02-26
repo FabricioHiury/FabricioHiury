@@ -34,10 +34,10 @@ I'm a Full-Stack Software Engineer with 4+ years of experience building scalable
 
 Let’s build amazing things together!
 
-<div><a href="https://github.com/FabricioHiury">
+<!-- <div><a href="https://github.com/FabricioHiury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioHiury&count_private=true&show_icons=true&theme=blueberry"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioHiury&layout=compact&langs_count=8&theme=blueberry"/>
-  </div>
+  </div> -->
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
